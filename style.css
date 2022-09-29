@@ -1,0 +1,60 @@
+.title{
+    color: black;
+    size: 25px;
+    text-align: left;
+    margin-bottom: 7px;
+    margin-top: 50px;
+}
+.text{
+    text-align : left;
+    margin-bottom: 25px;
+    margin-top: 5px;
+}
+.text2{
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+div{
+    width: 350px;
+    display: inline-block;   
+}
+.login{
+    color: rgb(245, 106, 42);
+}
+.input1{
+    display: block;
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    border: 1px solid;
+    border-bottom: none;
+}
+.last-search{
+   display: block;
+    width: 100%;
+    height: 50px;
+    margin-top: 0px;
+    border: 1px solid;
+}
+
+button{
+    width: 100%;
+    height: 40px;
+    color: white;
+    background-color: rgb(245, 106, 42);
+    border-width: 0;
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+button:hover{
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+
+.plocies{
+    text-align: left;
+    font-size: smaller;
+}
